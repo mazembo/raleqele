@@ -1,0 +1,1057 @@
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-21 18:45:33) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 88ms (View: 82, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 18:45:34) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/header-bg.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 18:45:34) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/header-photo.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 18:45:34) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/quote.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 18:45:34) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/dots.gif" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-21 18:50:27) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 68ms (View: 55, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 18:50:28) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/header-bg.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 18:50:28) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/header-photo.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 18:50:28) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/quote.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 18:50:28) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/dots.gif" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-21 19:03:15) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 80ms (View: 74, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:03:15) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/header-bg.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:03:15) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/header-photo.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:03:16) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/dots.gif" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:03:16) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/quote.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-21 19:03:20) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 18ms (View: 11, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:03:20) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/header-bg.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:03:20) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/header-photo.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:03:20) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/quote.jpg" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:03:20) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/dots.gif" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-21 19:09:00) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 16ms (View: 3, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:09:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/FreshMedia.css" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-21 19:09:57) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 68ms (View: 62, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-21 19:09:57) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/FreshMedia.css" with {:method=>:get}):
+  /usr/lib/ruby/1.8/mongrel/rails.rb:76:in `process'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `synchronize'
+  /usr/lib/ruby/1.8/mongrel/rails.rb:74:in `process'
+  /usr/lib/ruby/1.8/mongrel.rb:159:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `each'
+  /usr/lib/ruby/1.8/mongrel.rb:158:in `process_client'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:285:in `run'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `initialize'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `new'
+  /usr/lib/ruby/1.8/mongrel.rb:268:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:282:in `run'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `each'
+  /usr/lib/ruby/1.8/mongrel/configurator.rb:281:in `run'
+  /usr/lib/ruby/1.8/mongrel/command.rb:212:in `run'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-21 19:10:44) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 69ms (View: 57, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 22:33:29) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 137ms (View: 129, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:32:35) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 151ms (View: 143, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:32:39) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 12, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:33:25) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 100ms (View: 91, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:33:31) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 21ms (View: 4, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:34:35) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 86ms (View: 79, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:34:41) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 24ms (View: 3, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:37:56) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 3, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:40:45) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 11, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:40:52) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 18ms (View: 3, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:41:54) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 13ms (View: 4, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:43:35) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 18ms (View: 12, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:44:39) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 24ms (View: 18, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:46:25) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 15ms (View: 8, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:54:52) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 32ms (View: 26, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-26 23:55:53) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-27 00:10:59) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 3, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2009-12-27 00:11:52) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 12ms (View: 4, DB: 0) | 200 OK [http://localhost/contents]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-08 18:01:21) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 481ms (View: 471, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-08 18:06:00) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 90ms (View: 60, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-08 18:10:56) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 121ms (View: 111, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-08 18:29:57) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 561ms (View: 541, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-08 18:34:38) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 461ms (View: 451, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-08 18:45:59) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 911ms (View: 841, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 21:52:08) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 171ms (View: 161, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 22:44:01) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 271ms (View: 251, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 22:44:43) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 60ms (View: 30, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 22:48:24) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 300ms (View: 250, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 23:07:08) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 310ms (View: 300, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 23:08:22) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 351ms (View: 321, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 23:12:40) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 341ms (View: 301, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 23:14:38) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 261ms (View: 251, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 23:15:44) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 321ms (View: 311, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-09 23:22:51) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-11 05:26:50) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 281ms (View: 261, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-11 05:32:58) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 200ms (View: 180, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-11 06:01:09) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 391ms (View: 371, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 15:56:39) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 210ms (View: 200, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:23:07) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 241ms (View: 231, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:23:14) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 31ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:25:05) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 150ms (View: 130, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:25:19) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 50ms (View: 50, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:26:17) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 20, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:26:20) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 10ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:26:42) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:28:29) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 150ms (View: 140, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:33:09) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 130ms (View: 120, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:35:55) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 161ms (View: 151, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:38:38) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 190ms (View: 190, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:45:31) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 310ms (View: 300, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 16:59:02) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 101ms (View: 90, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 17:02:28) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 100ms (View: 90, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 17:06:35) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 100ms (View: 100, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 17:10:36) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 911ms (View: 841, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 17:18:54) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 141ms (View: 121, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 17:23:22) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 100ms (View: 100, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 17:23:38) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 10ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-19 17:29:07) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 111ms (View: 111, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-20 17:54:09) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 160ms (View: 150, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-20 18:02:35) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 101ms (View: 101, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-20 18:06:41) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 131ms (View: 111, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-20 18:07:40) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 121ms (View: 111, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-21 17:30:59) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+ERROR: compiling _run_erb_app47views47layouts47application46html46erb RAISED compile error
+C:/rails/raleqele/app/views/layouts/application.html.erb:44: syntax error, unexpected '=', expecting kEND
+@output_buffer.concat "\t";  = yield ; @output_buffer.concat "\n"
+                              ^
+Function body:           def _run_erb_app47views47layouts47application46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n"
+@output_buffer.concat "<head>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<meta name=\"Description\" content=\"Information architecture, Web Design, Web Standards.\" />\n"
+@output_buffer.concat "<meta name=\"Keywords\" content=\"your, keywords\" />\n"
+@output_buffer.concat "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\n"
+@output_buffer.concat "<meta name=\"Distribution\" content=\"Global\" />\n"
+@output_buffer.concat "<meta name=\"Author\" content=\"Erwin Aligam - ealigam@gmail.com\" />\n"
+@output_buffer.concat "<meta name=\"Robots\" content=\"index,follow\" />\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<title>"; @output_buffer.concat(( h(yield(:title) || "Untitled") ).to_s); @output_buffer.concat "</title>\n"
+@output_buffer.concat "    "; @output_buffer.concat(( stylesheet_link_tag '/images/FreshMedia' ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "\t\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "</head>\n"
+@output_buffer.concat "<body>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<!-- wrap starts here -->\n"
+@output_buffer.concat "<div id=\"wrap-out\"><div id=\"wrap\">\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\t<!--header -->\n"
+@output_buffer.concat "\t<div id=\"header\">\t\t\t\n"
+@output_buffer.concat "\t\t\t\t\n"
+@output_buffer.concat "\t\t<h1 id=\"logo-text\"><a href=\"index.html\" title=\"\">Ha-Raleqele Cultural Consultants</a></h1>\t\t\n"
+@output_buffer.concat "\t\t<p id=\"intro\">\n"
+@output_buffer.concat "\t\t \n"
+@output_buffer.concat "\t\t</p>\t\t\n"
+@output_buffer.concat "\t\t\n"
+@output_buffer.concat "\t\t<div  id=\"nav\">\n"
+@output_buffer.concat "\t\t\t<ul>\n"
+@output_buffer.concat "\t\t\t\t<li id=\"current\"><a href=\"index.html\">Home</a></li>\n"
+@output_buffer.concat "\t\t\t\t<li><a href=\"style.html\">Past projects </a></li>\n"
+@output_buffer.concat "\t\t\t\t<li><a href=\"index.html\">Services</a></li>\n"
+@output_buffer.concat "\t\t\t\t<li><a href=\"index.html\">Contact us </a></li>\n"
+@output_buffer.concat "\t\t\t\t\t\n"
+@output_buffer.concat "\t\t\t</ul>\t\t\n"
+@output_buffer.concat "\t\t</div>\t\n"
+@output_buffer.concat "\t\t\t\t\n"
+@output_buffer.concat "\t<!--header ends-->\t\t\t\t\t\n"
+@output_buffer.concat "\t</div>\n"
+@output_buffer.concat "\t\n"
+@output_buffer.concat "\t";  = yield ; @output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<div id=\"footer\">\n"
+@output_buffer.concat "\t\n"
+@output_buffer.concat "\t<div class=\"footer-left\">\n"
+@output_buffer.concat "\t\t<p class=\"align-left\">\t\t\t\n"
+@output_buffer.concat "\t\t&copy; 2010 <strong>Raleqele Cultural Consultants</strong> |\n"
+@output_buffer.concat "\t\tDesign by <a href=\"http://www.dielais.com/\">Diela Information Systems -DIS</a> |\n"
+@output_buffer.concat "\t\t\n"
+@output_buffer.concat "\t\t</p>\t\t\n"
+@output_buffer.concat "\t</div>\n"
+@output_buffer.concat "\t\n"
+@output_buffer.concat "\t<div class=\"footer-right\">\n"
+@output_buffer.concat "\t\t<p class=\"align-right\">\n"
+@output_buffer.concat "\t\t<a href=\"http://www.raleqele.org\">Home</a>&nbsp;|&nbsp;\n"
+@output_buffer.concat "  \t\t\n"
+@output_buffer.concat "\t\t</p>\n"
+@output_buffer.concat "\t</div>\n"
+@output_buffer.concat "    </div>\n"
+@output_buffer.concat "\t</div>\t\n"
+@output_buffer.concat "\t\n"
+@output_buffer.concat "</body>\n"
+@output_buffer.concat "</html>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: C:/rails/raleqele/app/views/layouts/application.html.erb:70:in `compile!'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:347:in `_render_with_layout'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/webrick.rb:46:in `service'
+c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/handler/webrick.rb:13:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+C:/rails/raleqele/app/views/layouts/application.html.erb:44: syntax error, unexpected '=', expecting kEND
+@output_buffer.concat "\t";  = yield ; @output_buffer.concat "\n"
+                              ^) on line #44 of app/views/layouts/application.html.erb:
+41: 	<!--header ends-->					
+42: 	</div>
+43: 	
+44: 	<% = yield %>
+45: 
+46: <div id="footer">
+47: 	
+
+    app/views/layouts/application.html.erb:70:in `compile!'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (510.0ms)
+Rendered rescues/_request_and_response (10.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-21 17:34:19) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 70ms (View: 70, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-26 15:39:50) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 300ms (View: 290, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-26 17:06:54) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 340ms (View: 330, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-26 17:27:34) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 200ms (View: 200, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-01-26 17:29:11) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 60ms (View: 50, DB: 0) | 200 OK [http://localhost/]

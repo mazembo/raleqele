@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta name="Description" content="Information architecture, Web Design, Web Standards." />
+<meta name="Keywords" content="your, keywords" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Distribution" content="Global" />
+<meta name="Author" content="Erwin Aligam - ealigam@gmail.com" />
+<meta name="Robots" content="index,follow" />
+
+<title><%= h(yield(:title) || "Untitled") %></title>
+    <%= stylesheet_link_tag '/images/FreshMedia' %>
+	
+
+</head>
+<body>
+
+<!-- wrap starts here -->
+<div id="wrap-out"><div id="wrap">
+
+	<!--header -->
+	<div id="header">			
+				
+		<h1 id="logo-text"><a href="index.html" title="">Ha-Raleqele Cultural Consultants</a></h1>		
+		<p id="intro">
+		 
+		</p>		
+		
+		<div  id="nav">
+			<ul>
+				<li id="current"><a href="index.html">Home</a></li>
+				<li><a href="style.html">Past projects </a></li>
+				<li><a href="index.html">Services</a></li>
+				<li><a href="index.html">Contact us </a></li>
+					
+			</ul>		
+		</div>	
+				
+	<!--header ends-->					
+	</div>
+	
+	
+	 <%= yield %>
+
+<div id="footer">
+	
+	<div class="footer-left">
+		<p class="align-left">			
+		&copy; 2010 <strong>Raleqele Cultural Consultants</strong> |
+		Design by <a href="http://www.dielais.com/">Diela Information Systems -DIS</a> |
+		
+		</p>		
+	</div>
+	
+	<div class="footer-right">
+		<p class="align-right">
+		<a href="http://www.raleqele.org">Home</a>&nbsp;|&nbsp;
+  		
+		</p>
+	</div>
+    </div>
+	</div>	
+	
+</body>
+</html>
