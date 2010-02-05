@@ -12,7 +12,7 @@
 
 <title><%= h(yield(:title) || "Untitled") %></title>
     <%= stylesheet_link_tag '/images/FreshMedia' %>
-	
+	<%= yield(:head) %>
 
 </head>
 <body>
@@ -25,24 +25,35 @@
 				
 		<h1 id="logo-text"><a href="index.html" title="">Ha-Raleqele Cultural Consultants</a></h1>		
 		<p id="intro">
-		 
+		‘The world has a watch, but Africa has the time’ 
 		</p>		
 		
 		<div  id="nav">
 			<ul>
-				<li id="current"><a href="index.html">Home</a></li>
-				<li><a href="style.html">Past projects </a></li>
-				<li><a href="index.html">Services</a></li>
-				<li><a href="index.html">Contact us </a></li>
-					
+<li id="current"><%= link_to "Home", home_path %> </li>
+<li><%= link_to "Past Projects", past_projects_path %></li>
+<li><%= link_to "Services", services_path %></li>
+<li><%= link_to "Contact Us", contact_us_path %></li>
+ <% past_projects_path %>
+ <% home_path %>
 			</ul>		
-		</div>	
+		</div>
 				
 	<!--header ends-->					
 	</div>
+	    <div id="container">
+      <%- flash.each do |name, msg| -%>
+        <%= content_tag :div, msg, :id => "flash_#{name}" %>
+      <%- end -%>
+      
+      <%- if show_title? -%>
+        <h1><%=h yield(:title) %></h1>
+      <%- end -%>
+      
+      <%= yield %>
+    </div>
 	
-	
-	 <%= yield %>
+	 
 
 <div id="footer">
 	
