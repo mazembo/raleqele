@@ -11,7 +11,15 @@
    HTML ELEMENTS
 ------------------------------------------------- */ 
 
+#big {
 
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    color: black;
+}
 
 
 /* Top Elements */

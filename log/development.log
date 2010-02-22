@@ -2127,3 +2127,213 @@ Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-10 20:10:55) 
 Rendering template within layouts/application
 Rendering contents/contact_us
 Completed in 30ms (View: 20, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-02-20 19:22:28) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 2664ms (View: 2664, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#past_projects (for 127.0.0.1 at 2010-02-20 19:22:49) [GET]
+Rendering template within layouts/application
+Rendering contents/past_projects
+Completed in 50ms (View: 40, DB: 0) | 200 OK [http://localhost/past_projects]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 19:23:04) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 30ms (View: 20, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 19:23:07) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 190ms (View: 180, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 20:15:01) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 311ms (View: 301, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 20:15:05) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 10ms (View: 0, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 20:15:09) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:16:00) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 110ms (View: 100, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-02-20 20:16:04) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 40ms (View: 30, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#past_projects (for 127.0.0.1 at 2010-02-20 20:16:07) [GET]
+Rendering template within layouts/application
+Rendering contents/past_projects
+Completed in 30ms (View: 20, DB: 0) | 200 OK [http://localhost/past_projects]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:16:10) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 20:16:12) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 140ms (View: 120, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 20:20:30) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 270ms (View: 250, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:26:54) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:31:37) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 40ms (View: 30, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:32:55) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 40ms (View: 30, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:34:35) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 20:34:51) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 10ms (View: 10, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:37:21) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 30ms (View: 20, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:37:29) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:39:32) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 40ms (View: 30, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:41:22) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 40ms (View: 30, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 20:41:59) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 30ms (View: 20, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 20:46:00) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#past_projects (for 127.0.0.1 at 2010-02-20 20:48:32) [GET]
+Rendering template within layouts/application
+Rendering contents/past_projects
+Completed in 30ms (View: 20, DB: 0) | 200 OK [http://localhost/past_projects]
+
+
+Processing ContentsController#past_projects (for 127.0.0.1 at 2010-02-20 21:38:23) [GET]
+Rendering template within layouts/application
+Rendering contents/past_projects
+Completed in 40ms (View: 30, DB: 0) | 200 OK [http://localhost/past_projects]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-02-20 21:39:07) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#past_projects (for 127.0.0.1 at 2010-02-20 21:39:11) [GET]
+Rendering template within layouts/application
+Rendering contents/past_projects
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/past_projects]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 21:39:22) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 21:39:25) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-02-20 21:39:39) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ContentsController#past_projects (for 127.0.0.1 at 2010-02-20 21:40:07) [GET]
+Rendering template within layouts/application
+Rendering contents/past_projects
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/past_projects]
+
+
+Processing ContentsController#services (for 127.0.0.1 at 2010-02-20 21:40:18) [GET]
+Rendering template within layouts/application
+Rendering contents/services
+Completed in 10ms (View: 10, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing ContentsController#contact_us (for 127.0.0.1 at 2010-02-20 21:40:29) [GET]
+Rendering template within layouts/application
+Rendering contents/contact_us
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing ContentsController#index (for 127.0.0.1 at 2010-02-20 23:11:05) [GET]
+Rendering template within layouts/application
+Rendering contents/index
+Completed in 10ms (View: 0, DB: 0) | 200 OK [http://localhost/]
